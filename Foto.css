@@ -12,7 +12,7 @@
 }
 
 .flex-container > .tropical {
-    background-image: url(./Personal-1.jpeg);
+    background: url(./Personal-1.jpeg);
 }
 
 .flex-container > .cold {
